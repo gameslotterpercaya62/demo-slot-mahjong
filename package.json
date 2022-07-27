@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-mahjong",
+  "main": "./lib/demo-slot-mahjong",
+  "version": "1.0.0",
+  "description": "Link Download Info Yang Lagi Gacor Demo Slot Mahjong Hack",
+  "keywords": ["bandar slot online","slot online terbaik","habanero slot","microgaming","agentotoplay","slot spade gaming","toptrend gaming","slot habanero","microgaming"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-mahjong:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya62/demo-slot-mahjong",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

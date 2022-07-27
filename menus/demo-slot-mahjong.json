@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle demo-slot-mahjong",
+        "command": "demo-slot-mahjong:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "demo-slot-mahjong",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "demo-slot-mahjong:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
